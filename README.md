@@ -1,2 +1,2 @@
 # get-tables-data
-fetch tables information from another web sites
+fetch tables information from another web sites in codeigniter 3
